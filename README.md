@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Natural Language Process.   
 📫 How to reach me: elena0315@naver.com   
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ocean010315?pet-id=1" width="2000" height="120"/>
-</a>  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocean010315)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ocean010315"/>
+</a>  
