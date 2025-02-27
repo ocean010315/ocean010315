@@ -22,7 +22,7 @@
 
 - **경량화된 TimesNet 모델을 통한 효율적인 시계열 데이터 이상 탐지** [🔗Link](https://drive.google.com/file/d/1NGRBphErrZo1d0yY_56uqlVSPey1Isu1/view?usp=sharing)
   - 김세민, 오수현, 박민제, 이지호, 석문기. (2024‐06‐26). 경량화된 TimesNet 모델을 통한 효율적인 시계열 데이터 이상 탐지. 대한전자공학회 학술대회, 제주.
-- **YOLOv7‐tiny‐Inception 모델을 이용한 실내 화재 감지** [🔗Link]([https://drive.google.com/file/d/1NGRBphErrZo1d0yY_56uqlVSPey1Isu1/view?usp=sharing](https://drive.google.com/file/d/1BHM192cy6AExXA1leQqYPym5FgBvG6J0/view?usp=sharing))
+- **YOLOv7‐tiny‐Inception 모델을 이용한 실내 화재 감지** [🔗Link](https://drive.google.com/file/d/1BHM192cy6AExXA1leQqYPym5FgBvG6J0/view?usp=sharing)
   - 오수현, 조원준, 신연순. (2024‐06‐26). YOLOv7‐tiny‐Inception 모델을 이용한 실내 화재 감지. 한국정보과학회 학술발표논문집, 제주.
 
 <br>
