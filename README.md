@@ -3,6 +3,7 @@
 - AI developer who pursues harmony between people and technology.
 - Aiming to make the world more enjoyable, convenient, and ultimately a better place.
 - Interested in analyzing data and deriving optimal solutions.
+- [CV](https://drive.google.com/file/d/11-OhlwJY9PewAvW-qi0P1l8SM8zvtsKi/view?usp=sharing), [Portfolio](https://www.figma.com/deck/qw1p6ZUBtu2er92kzVx2NT/%EC%98%A4%EC%88%98%ED%98%84_Portfolio?node-id=1-42&t=xeH09hFVZkx72JOi-1)
 
 <br>
 
@@ -19,9 +20,9 @@
 
 ## 📝 Publications
 
-- **경량화된 TimesNet 모델을 통한 효율적인 시계열 데이터 이상 탐지**
+- **경량화된 TimesNet 모델을 통한 효율적인 시계열 데이터 이상 탐지** [🔗Link](https://drive.google.com/file/d/1NGRBphErrZo1d0yY_56uqlVSPey1Isu1/view?usp=sharing)
   - 김세민, 오수현, 박민제, 이지호, 석문기. (2024‐06‐26). 경량화된 TimesNet 모델을 통한 효율적인 시계열 데이터 이상 탐지. 대한전자공학회 학술대회, 제주.
-- **YOLOv7‐tiny‐Inception 모델을 이용한 실내 화재 감지**
+- **YOLOv7‐tiny‐Inception 모델을 이용한 실내 화재 감지** [🔗Link]([https://drive.google.com/file/d/1NGRBphErrZo1d0yY_56uqlVSPey1Isu1/view?usp=sharing](https://drive.google.com/file/d/1BHM192cy6AExXA1leQqYPym5FgBvG6J0/view?usp=sharing))
   - 오수현, 조원준, 신연순. (2024‐06‐26). YOLOv7‐tiny‐Inception 모델을 이용한 실내 화재 감지. 한국정보과학회 학술발표논문집, 제주.
 
 <br>
