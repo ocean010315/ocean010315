@@ -3,7 +3,7 @@
 - AI developer who pursues harmony between people and technology.
 - Aiming to make the world more enjoyable, convenient, and ultimately a better place.
 - Interested in analyzing data and deriving optimal solutions.
-- [CV](https://drive.google.com/file/d/11-OhlwJY9PewAvW-qi0P1l8SM8zvtsKi/view?usp=sharing), [Portfolio](https://www.figma.com/deck/qw1p6ZUBtu2er92kzVx2NT/%EC%98%A4%EC%88%98%ED%98%84_Portfolio?node-id=1-42&t=xeH09hFVZkx72JOi-1)
+- [CV](https://drive.google.com/file/d/14EAIE5Oq2qOO7uHhsONAczuHV3qpL9bv/view?usp=sharing), [Portfolio](https://www.figma.com/deck/qw1p6ZUBtu2er92kzVx2NT/%EC%98%A4%EC%88%98%ED%98%84_Portfolio?node-id=1-42&t=xeH09hFVZkx72JOi-1)
 
 <br>
 
