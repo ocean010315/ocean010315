@@ -2,7 +2,7 @@
 
 - AI developer who pursues harmony between people and technology.
 - Aiming to make the world more enjoyable, convenient, and ultimately a better place.
-- Interested in analyzing data and deriving optimal solutions.
+- Interested in how models acquire information, their optimization for lightweight efficiency, and practical applications in the real world.  
 - [CV](https://drive.google.com/file/d/14EAIE5Oq2qOO7uHhsONAczuHV3qpL9bv/view?usp=sharing), [Portfolio](https://www.figma.com/deck/qw1p6ZUBtu2er92kzVx2NT/%EC%98%A4%EC%88%98%ED%98%84_Portfolio?node-id=1-42&t=xeH09hFVZkx72JOi-1)
 
 <br>
@@ -47,17 +47,10 @@
 ## 🛠️ Skills
 
 **Languages**: 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
 **AI/Data**: 
 <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=Hugging Face&logoColor=white"> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">  
-**Backend**: 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">  
 **Soft Skills**: Communication, Responsibility, Flexibility
