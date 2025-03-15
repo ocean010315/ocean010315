@@ -3,7 +3,7 @@
 - I’m passionate about NLP and aim to connect technology and people through LLMs.
 - I’m interested in model training and optimization, aiming to apply them efficiently in real‐world scenarios.
 - Aiming to make the world more enjoyable, convenient, and ultimately a better place.
-- [CV (kor)](https://drive.google.com/file/d/1TiOWt9Qo9j22cxcVMCv1oS0BcWWAj3mv/view?usp=sharing), [CV (eng)](https://drive.google.com/file/d/1Ufq24KXT-7j7Y-qawU20y3TllpCAw9PU/view?usp=sharing) [Portfolio](https://drive.google.com/file/d/1-5nEb1LO4E9gqEq8ISQuz19qYyV3mB7u/view?usp=sharing)
+- [CV (kor)](https://drive.google.com/file/d/1TiOWt9Qo9j22cxcVMCv1oS0BcWWAj3mv/view?usp=sharing), [CV (eng)](https://drive.google.com/file/d/1Ufq24KXT-7j7Y-qawU20y3TllpCAw9PU/view?usp=sharing), [Portfolio](https://drive.google.com/file/d/1-5nEb1LO4E9gqEq8ISQuz19qYyV3mB7u/view?usp=sharing)
 
 <br>
 
