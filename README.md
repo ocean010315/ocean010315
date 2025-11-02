@@ -1,9 +1,8 @@
 ## 🏷️ Profile
 
-- I’m passionate about NLP and aim to connect technology and people through LLMs.
-- I’m interested in model training and optimization, aiming to apply them efficiently in real‐world scenarios.
-- Aiming to make the world more enjoyable, convenient, and ultimately a better place.
-- [CV (kor)](https://drive.google.com/file/d/1TiOWt9Qo9j22cxcVMCv1oS0BcWWAj3mv/view?usp=sharing), [CV (eng)](https://drive.google.com/file/d/1Ufq24KXT-7j7Y-qawU20y3TllpCAw9PU/view?usp=sharing), [Portfolio](https://drive.google.com/file/d/1u0bZOe6O0dxdw6gf7awshclJJIO6wt6t/view?usp=sharing)
+- I aim to create a better world through self-improving AI
+- I focus on advancing LLMs and developing intelligent agents
+- [CV](https://drive.google.com/file/d/1-OSQeyjU4xrnpLTUXYzG0yTzSWNtU5Xt/view?usp=sharing), Portfolio (TBU)
 
 <br>
 
@@ -11,7 +10,7 @@
 
 | Institution | Period |
 | --- | :---: |
-| Dongguk University ‐ Major of Computer Science and Engineering (GPA: 4.12/4.5) | Mar 2021 - Present |
+| Dongguk University ‐ Major of Computer Science and Engineering (GPA: 4.09/4.5) | Mar 2021 - Aug 2025 |
 
 <br>
 
@@ -39,7 +38,7 @@
 
 **Naver Boostcamp AI Tech 7th** (Aug 2024 - Feb 2025, 6 months)  
 - Completed the NLP(Natural Language Processing) track  
-- Gained hands‐on experience in defining real‐world problems, deriving solutions, and developing the entire process
+- Gained hands-on experience in defining real-world problems, data analysis, deriving solutions, and developing the entire process
 
 **Teaching Assistant for Machine Learning Course** (Mar 2024 - Jun 2024, 4 months)
 - Served as a teaching assistant for a machine learning course aimed at 3rd and 4th‐year Computer Science and Engineering students
@@ -49,10 +48,12 @@
 
 ## 🛠️ Skills
 
-**Languages**: 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
-**AI/Data**: 
-<img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=Hugging Face&logoColor=white"> 
+**Hard Skills**:  
+<img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">  
+**Soft Skills**: 
+- Communicated effectively with cross‐functional teams to align on project goals
+- Critically analyzed diverse perspectives to guide data‐driven decisions
+- Ran comparative experiments to validate emerging hypotheses and guide decision‐making
