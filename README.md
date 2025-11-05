@@ -2,7 +2,7 @@
 
 - I aim to create a better world through self-improving AI
 - I focus on advancing LLMs and developing intelligent agents
-- [CV](https://drive.google.com/file/d/1-OSQeyjU4xrnpLTUXYzG0yTzSWNtU5Xt/view?usp=sharing), Portfolio (TBU)
+- [CV](https://drive.google.com/file/d/1OB_MRVNAAq5T1EInUmMLrafyUfF8FCka/view?usp=sharing)
 
 <br>
 
